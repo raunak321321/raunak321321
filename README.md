@@ -1,3 +1,4 @@
+### 💻 **About:**
 - 👋 Hi, I’m **Raunak Somani**, A final year IT student from NIT Karnataka.
 - 👀 I have a strong passion for coding and development, enjoy unraveling puzzles, and maintain a perpetual curiosity for discovering new concepts.
 - 🌱 I’m currently learning machine learning and Artificial learning.
