@@ -30,6 +30,7 @@
 
 ### 💻 **Contact:**
 <p align="left">
+  <a href="https://raunak321321.github.io/My-Own-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raunak-somani-10a500205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:raunaksomani321@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
